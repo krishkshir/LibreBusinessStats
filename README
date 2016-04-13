@@ -1,0 +1,28 @@
+GOAL:
+   This program lets a business owner know how their business is doing
+quantitatively.
+It is hoped that this program, available libre, is especially useful to
+small and medium-size business owners, who may not have the resources to
+hire a professional consultant to see how their business is doing 
+quantitatively, by providing some basic statistics about their business
+(with more and more relevant and useful statistics/features to be added with 
+time).
+    A basic assumption is that most business decisions come down to two 
+distinct factors:
+1. An objective factor, which involves mathematically calculating the costs
+and benefits of various options.
+2. A subjective factor, which involves ``common sense'', ``business sense'',
+ethics and other non-quantifiable variables.
+The goal of this project is to tackle the former factor, efficiently and in a
+cost-effective manner, while the latter is left to be evaluated by the 
+stakeholders in the business.
+An important implicit assumption being made here is that the 2 aforementioned
+factors can be de-coupled.
+Another important factor in making business decisions is
+the enumeration of various options at the beginning.
+Frequently, this also requires some qualities mentioned in item #2 above.
+It will be assumed that this has already been done and a business decision
+is to be made regarding choosing between different options based on some
+quantitative criteria.
+So, the program will start off from a given option and evaluate its merits
+based on given data.
